@@ -26,7 +26,7 @@ The Promotions element with Name = "Gallery" has a Description that contains the
 * Open the Command prompt and navigate to the project folder.
 * To execute the test from the command line run the command: **c:\>mvn test** 
 * To Execute the test from IntelliJ IDEA , Open the project through the IDE, right clicking on the Test CategoryDetail.java and click Run 
-* For Test Report : Execute command in** allure serve allure-results**
+* For Test Report : Execute command in **allure serve allure-results**
 * Test Report will open in a browser 
 
 
